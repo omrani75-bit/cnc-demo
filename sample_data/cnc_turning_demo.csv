@@ -1,0 +1,11 @@
+﻿process_type,material,spindle_rpm,feed_mm_min,depth_mm,tool_id,coolant_on,batch_size,scrap
+turning,AL6061,3200,450,0.80,T01,1,80,0
+turning,AL6061,2800,700,1.20,T02,1,60,0
+turning,AL6061,2000,850,1.80,T02,0,40,1
+turning,AL6061,3600,500,0.60,T01,1,120,0
+turning,AL6061,1800,900,2.00,T03,0,35,1
+turning,AL6061,4100,420,0.55,T01,1,150,0
+turning,AL6061,2400,780,1.50,T02,0,55,1
+turning,AL6061,3000,600,1.00,T03,1,70,0
+turning,AL6061,2600,820,1.70,T03,0,45,1
+turning,AL6061,3400,480,0.75,T02,1,95,0
